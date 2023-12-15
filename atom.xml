@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xml:base="https://xd689.github.io/Pr-cticaLMAR/">
-<id>https://xd689.github.io/Pr-cticaLMAR/</id>
+<feed xml:lang="es" xmlns="http://www.w3.org/2005/Atom" xml:base="https://xd689.github.io/PracticaFol/">
+<id>https://xd689.github.io/PracticaFol/</id>
 <title>PracticaLMAR Atom</title>
 <updated>2023-12-12T09:10:00+01:00</updated>
-<link rel="alternate" href="https://xd689.github.io/Pr-cticaLMAR/atom.xml"/>
+<link rel="alternate" href="https://xd689.github.io/PracticaFol/atom.xml"/>
 <author>
 <name>Pedro José Notario Miñano</name>
 <email>secundary9618@gmail.com</email>
 </author>
-<category term="Reviews inventadas"/>
+<category term="Software Libre"/>
 <icon>../imgs/logo.png</icon>
 <entry>
-<id>https://xd689.github.io/Pr-cticaLMAR/</id>
-<title>Review de Valorant</title>
+<id>https://xd689.github.io/PracticaFol/</id>
+<title>Página de inicio</title>
 <updated>2023-12-12T09:10:00+01:00</updated>
 <author>
 <name>Pedro José Notario Miñano</name>
 <email>secundary9618@gmail.com</email>
 </author>
-<summary>En esta página cutrona verás una review falsa de Valorant.</summary>
-<link rel="alternate" href="https://xd689.github.io/Pr-cticaLMAR/pages/Valorant.html"/>
+<summary>Es una página cutrona.</summary>
+<link rel="alternate" href="https://xd689.github.io/PracticaFol/index.html"/>
 </entry>
 <entry>
-<id>https://xd689.github.io/Pr-cticaLMAR/</id>
-<title>Review de CS2</title>
+<id>https://xd689.github.io/PracticaFol/</id>
+<title>Instalación de un editor de texto.</title>
 <updated>2023-12-12T09:15:00+01:00</updated>
 <author>
 <name>Pedro José Notario Miñano</name>
 <email>secundary9618@gmail.com</email>
 </author>
-<summary>En esta página cutrona verás una review falsa de Counter Strike 2.</summary>
-<link rel="alternate" href="https://xd689.github.io/Pr-cticaLMAR/pages/CS2.html"/>
+<summary>Es una página cutrona.</summary>
+<link rel="alternate" href="https://xd689.github.io/PracticaFol/pages/Ofi.html"/>
 </entry>
 <entry>
-<id>https://xd689.github.io/Pr-cticaLMAR/</id>
-<title>Review de Overwatch</title>
+<id>https://xd689.github.io/PracticaFol/</id>
+<title>Instalación de antivirus</title>
 <updated>2023-12-12T09:20:00+01:00</updated>
 <author>
 <name>Pedro José Notario Miñano</name>
 <email>secundary9618@gmail.com</email>
 </author>
-<summary>En esta página cutrona verás una review falsa de Overwatch 2.</summary>
-<link rel="alternate" href="https://xd689.github.io/Pr-cticaLMAR/pages/Overwatch.html"/>
+<summary>Es una página cutrona.</summary>
+<link rel="alternate" href="https://xd689.github.io/PracticaFol/pages/Segu.html"/>
 </entry>
 </feed>
