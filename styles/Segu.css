@@ -1,0 +1,19 @@
+.nav{
+    background-color: #faab00;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    gap: 50px;
+    justify-content: center;
+}
+
+.nav-link{
+    color: rgb(0, 0, 0);
+  }
+
+.section header{
+	background-color: #faab00;
+	padding: 10px;
+}
