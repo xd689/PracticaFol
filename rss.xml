@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>Shooters Esports</title>
+<link>https://xd689.github.io/Pr-cticaLMAR/</link>
+<description>Página comparativa e informativa sobre la escena competitiva de los shooters más grandes de la industria.</description>
+<category>Ocio/Videojuegos/Entretenimiento</category>
+<copyright>1ºASIR I.E.S Medina Azahara Lenguaje de Marcas</copyright>
+<image>
+<url>imgs/rss.jpg</url>
+<width>50</width>
+<height>50</height>
+</image>
+<language>es-es</language>
+<webMaster>secundary9618@gmail.com</webMaster>
+<item>
+<title>Valorant</title>
+<link>https://xd689.github.io/Pr-cticaLMAR/pages/Valorant.html</link>
+<description>En este apartado tendrás información sobre el videojuego Valorant.</description>
+<author>secundary9618@gmail.com</author>
+<category>Shooter táctico</category>
+</item>
+<item>
+<title>Counter Strike 2</title>
+<link>https://xd689.github.io/Pr-cticaLMAR/pages/CS2.html</link>
+<description>En este apartado encontrarás información de Counter Strike 2.</description>
+<author>secundary9618@gmail.com</author>
+<category>Shooter táctico</category>
+</item>
+<item>
+<title>Overwatch 2</title>
+<link>https://xd689.github.io/Pr-cticaLMAR/pages/Overwatch.html</link>
+<description>En esta sección hay información acerca del juego Overwatch 2.</description>
+<author>secundary9618@gmail.com</author>
+<category>Hero shooter</category>
+</item>
+</channel>
+</rss>
